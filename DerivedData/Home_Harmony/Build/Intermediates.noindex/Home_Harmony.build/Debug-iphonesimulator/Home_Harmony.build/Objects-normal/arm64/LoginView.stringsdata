@@ -1,0 +1,28 @@
+{
+  "source": "/Users/danielmadjar/Desktop/Projects/Home_Harmony/Home_Harmony/LoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "HomeHarmony"
+      },
+      {
+        "comment": "",
+        "key": "Email"
+      },
+      {
+        "comment": "",
+        "key": "Password"
+      },
+      {
+        "comment": "",
+        "key": "Login"
+      },
+      {
+        "comment": "",
+        "key": "Create Account"
+      }
+    ]
+  },
+  "version": 1
+}

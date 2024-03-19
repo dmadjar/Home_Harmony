@@ -1,0 +1,20 @@
+{
+  "source": "/Users/danielmadjar/Desktop/Projects/Home_Harmony/DerivedData/Home_Harmony/Build/Intermediates.noindex/Previews/Home_Harmony/Intermediates.noindex/Home_Harmony.build/Debug-iphonesimulator/Home_Harmony.build/Objects-normal/arm64/FamilyView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hi %@!"
+      },
+      {
+        "comment": "",
+        "key": "Your Families"
+      },
+      {
+        "comment": "",
+        "key": "Add Family"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,20 @@
+{
+  "source": "/Users/danielmadjar/Desktop/Projects/Home_Harmony/Home_Harmony/AddFriendView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add Friends"
+      },
+      {
+        "comment": "",
+        "key": "%@ %@"
+      },
+      {
+        "comment": "",
+        "key": "Done"
+      }
+    ]
+  },
+  "version": 1
+}
