@@ -1,9 +1,0 @@
-version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
-options: "062fa65f5b4125a7b7b634c938c1811f8e14f619523b0e453a5ee99185b67a7e"
-build_start_time: [1710799704, 963928000]
-build_end_time: [1710799705, 912000]
-inputs:
-  ? "/Users/danielmadjar/Desktop/Projects/Home_Harmony/DerivedData/Home_Harmony/Index.noindex/Build/Intermediates.noindex/Home_Harmony.build/Debug-iphonesimulator/Home_Harmony.build/DerivedSources/GeneratedAssetSymbols.swift"
-  : !dirty [1710799702, 185833776]
-  "/Users/danielmadjar/Desktop/Projects/Home_Harmony/Home_Harmony/ContentView.swift": !dirty [1710799691, 74748634]
-  "/Users/danielmadjar/Desktop/Projects/Home_Harmony/Home_Harmony/Home_HarmonyApp.swift": !dirty [1710799691, 70925579]
